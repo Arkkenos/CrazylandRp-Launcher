@@ -1,7 +1,7 @@
 {
     "name": "Crazylandrp-Launcher",
     "preductname": "Crazylandrp Launcher",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Launcher Mincraft pour le serveur CrazylandRp",
     "main": "src/app.js",
     "author": {
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://https://raw.githubusercontent.com/Arkkenos/CrazylandRp-Launcher/refs/heads/master/src/assets/icon.ico"
+        "icon": "node build.js --icon=https://https://raw.githubusercontent.com/AArkkenos/CrazylandRp-Launcher/blob/master/src/assets/images/icon.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
