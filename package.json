@@ -1,7 +1,7 @@
 {
     "name": "Crazylandrp-Launcher",
     "preductname": "Crazylandrp Launcher",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher Mincraft pour le serveur CrazylandRp",
     "main": "src/app.js",
     "author": {
